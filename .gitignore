@@ -1,0 +1,8 @@
+target
+private
+.idea
+*.iml
+gradle
+build
+gradlew.bat
+gradlew
